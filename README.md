@@ -1,5 +1,12 @@
-# survey_repo_CJCG
-This is the team repo for stats survey
+# Team Member
+
+|Name|Github Handle|
+|---|---|
+|Constantin Shuster|[@shusterc](https://github.com/shusterc)|
+|Chao Wang|[@chaomander2018]()|
+|Gilbert Lei|[@gilbertlei](https://github.com/gilbertlei)|
+|Jim Pushor|[@jpush1773](https://github.com/jpush1773)|
+
 
 
 #### Reflection on UBC Office of Research Ethics document on Using Online Surveys  
