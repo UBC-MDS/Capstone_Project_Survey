@@ -4,7 +4,7 @@ This is the team repo for stats survey
 
 #### Reflection on UBC Office of Research Ethics document on Using Online Surveys  
 
-Our survey will not collect directly identifying information such as name, student number and SIN number. What we will collect are MDS students' choices of capstone projects, their ages, their education backgrounds, etc. Every single piece of the information we are going to collect could not be used to identify individuals. However, several pieces combined could potentially be used to identify them. Because of that, we believe the information we will collect is considered "personal information".  
+Our survey will not collect directly identifying information such as name, student number and SIN number. What we will collect are MDS students' choices of capstone projects, their ages, their education backgrounds, etc. Even though a single variable on its own could not identify an individual, variables combined may expose individuals to identification. In consideration of this risk, we will treat all information collected as "personal information" and manage it according to the guidelines outlined below.  
 
 As such, according to the BC Freedom of Information and Protection of Privacy Act (FIPPA), we should store the information we collect only in Canada and only access in Canada. To comply with it, we decided to use a Canada based online survey tool to conduct our survey.  
 
