@@ -1,3 +1,10 @@
+# MDS Survey Project - DSCI 554
+
+Date: March 30, 2019
+
+This repository contains the files related to the project for our class on Experimentation and Causal Inference (DSCI 554).
+
+Milestone1 - completed survey proposal can be found in PROPOSAL.md
 
 ### Team Members
 |Name|Github Handle|
@@ -14,16 +21,6 @@
 |Milestone 1|[]()|
 |Milestone 2|[]()|
 |Milestone 3|[]()|
-
-### Research Topic
-
-### Proposed Questions
-
-### Other Questions (defining confouders)
-
-### Statistic Tests
-
-
 
 #### Reflection on UBC Office of Research Ethics document on Using Online Surveys  
 
