@@ -1,11 +1,27 @@
-# Team Member
 
+### Team Members
 |Name|Github Handle|
 |---|---|
 |Constantin Shuster|[@shusterc](https://github.com/shusterc)|
-|Chao Wang|[@chaomander2018]()|
+|Chao Wang|[@chaomander2018](https://github.com/chaomander2018)|
 |Gilbert Lei|[@gilbertlei](https://github.com/gilbertlei)|
 |Jim Pushor|[@jpush1773](https://github.com/jpush1773)|
+
+### Milestone Releases
+
+|Name|Release Link|
+|---|---|
+|Milestone 1|[]()|
+|Milestone 2|[]()|
+|Milestone 3|[]()|
+
+### Research Topic
+
+### Proposed Questions
+
+### Other Questions (defining confouders)
+
+### Statistic Tests
 
 
 
