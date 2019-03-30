@@ -2,7 +2,9 @@
 
 Date: March 30, 2019
 
-This repository contains the files related to the project for our class on Experimentation and Causal Inference (DSCI 554)
+This repository contains the files related to the project for our class on Experimentation and Causal Inference (DSCI 554).
+
+Milestone1 - completed survey proposal can be found in PROPOSAL.md
 
 ### Team Members
 |Name|Github Handle|
