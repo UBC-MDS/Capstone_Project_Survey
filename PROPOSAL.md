@@ -63,7 +63,7 @@ We will use a logistic regression to determine how perceived skill level with st
 
 To examine for confounders, we will first check whether there was any variation in the questions testing for confounders. If there is significant variation, we will have to control for it using stratification as this is an observational study.
 
-### Reflection on UBC Office of Research Ethics document on Using Online Surveys  
+### Research Ethics Consideration:  
 
 Our survey will not collect directly identifying information such as name, student number and SIN number. What we will collect are MDS students' choices of capstone projects, their ages, their education backgrounds, etc. Even though a single variable on its own could not identify an individual, variables combined may expose individuals to identification. In consideration of this risk, we will treat all information collected as "personal information" and manage it according to the guidelines outlined below.  
 
