@@ -7,6 +7,7 @@ This repository contains the files related to the project for our class on Exper
 Milestone1 - completed survey proposal can be found in [PROPOSAL.md](https://github.com/UBC-MDS/survey_repo_CJCG/blob/master/PROPOSAL.md).
 
 ### [Survey Link](https://ubc.ca1.qualtrics.com/jfe/form/SV_bqO61PR2HoTIaQR)
+### [EDA script](https://github.ubc.ca/MDS-2018-19/Capstone_Project_Survey/blob/master/EDA/EDA.md)
 
 ### Team Members
 |Name|Github Handle|
