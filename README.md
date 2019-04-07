@@ -21,8 +21,8 @@ Milestone1 - completed survey proposal can be found in [PROPOSAL.md](https://git
 
 |Name|Release Link|
 |---|---|
-|Milestone 1|[v1.1](https://github.com/UBC-MDS/survey_repo_CJCG/releases/tag/v1.1)|
-|Milestone 2|[]()|
+|Milestone 1|[v1.1](https://github.com/UBC-MDS/Capstone_Project_Survey/releases/tag/v1.1)|
+|Milestone 2|[v2.0](https://github.com/UBC-MDS/Capstone_Project_Survey/releases/tag/v2.0)|
 |Milestone 3|[]()|
 
 ### Creative Commons License  

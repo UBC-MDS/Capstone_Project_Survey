@@ -59,7 +59,7 @@ We plan to ask the following questions to look for confounding factors (answer o
 
 ### Analysis plan:
 
-We will use a logistic regression to determine how perceived skill level with statistics influenced students to choose a statistics capstone project. We will use a second logistic regression model determine how perceived skill level with machine learning influenced students to choose a machine learning capstone project. We will check to coefficients of the regression models for significance. We do not perceive that we will need to adjust any p-values as we are looking at only two relationship in the dataset. We chose to use a logistic regression model as our response variable is binary and thus we expect it to be well modelled by a binomial distribution.
+We will use a logistic regression to determine how perceived skill level with statistics influenced students to choose a statistics capstone project. We will use a second logistic regression model to determine how perceived skill level with machine learning influenced students to choose a machine learning capstone project. We will check two coefficients of the regression models for significance. We do not perceive that we will need to adjust any p-values as we are looking at only two relationships in the dataset. We chose to use a logistic regression model as our response variable is binary and thus we expect it to be well modeled by a binomial distribution.
 
 To examine for confounders, we will first check whether there was any variation in the questions testing for confounders. If there is significant variation, we will have to control for it using stratification as this is an observational study.
 
@@ -71,4 +71,4 @@ As such, according to the BC Freedom of Information and Protection of Privacy Ac
 
 According to FIPPA, an IP address constitutes indirectly identifying information. Since we have no interest in survey respondents' IP addresses, we will switch off the IP tracking feature provided by the survey tool.  
 
-If it important to enable a participant to make an informed decision about participating in our online survey. To achieve this goal, we need to include a cover letter in our survey. In this cover letter, we will include: the study title, contact information of the PI, a short description of the study, risks and benefits, limits to confidentiality, a statement that participation is optional, and the UBC Research Participant Complaint Line text.
+It is important to enable a participant to make an informed decision about participating in our online survey. To achieve this goal, we need to include a cover letter in our survey. In this cover letter, we will include: the study title, contact information of the PI, a short description of the study, risks and benefits, limits to confidentiality, a statement that participation is optional, and the UBC Research Participant Complaint Line text.
