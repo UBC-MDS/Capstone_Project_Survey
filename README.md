@@ -33,7 +33,7 @@ For the result and analysis, please refer to our [final report](https://github.u
 |---|---|
 |Milestone 1|[v1.1](https://github.com/UBC-MDS/Capstone_Project_Survey/releases/tag/v1.1)|
 |Milestone 2|[v2.0](https://github.com/UBC-MDS/Capstone_Project_Survey/releases/tag/v2.0)|
-|Milestone 3|[]()|
+|Milestone 3|[v3.0](https://github.com/UBC-MDS/Capstone_Project_Survey/releases/tag/v3.0)|
 
 #### References:
 https://datascienceplus.com/perform-logistic-regression-in-r/
